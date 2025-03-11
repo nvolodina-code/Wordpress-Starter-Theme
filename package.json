@@ -1,0 +1,27 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Bare Bones starter theme for Wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murtaugh/HTML5-Reset-WordPress-Theme.git"
+  },
+  "author": "Nonna Volodina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murtaugh/HTML5-Reset-WordPress-Theme/issues"
+  },
+  "homepage": "https://github.com/murtaugh/HTML5-Reset-WordPress-Theme#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "cssnano": "^7.0.6",
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "postcss": "^8.5.3",
+    "sass": "^1.85.1"
+  }
+}
